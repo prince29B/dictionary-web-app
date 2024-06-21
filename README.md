@@ -12,4 +12,4 @@ Crafted a dictionary web app leveraging JavaScript and the Dictionary API to del
 - Clean and intuitive user interface designed with HTML and CSS
 ## Demo
 
-![Demo Screenshot]((https://github.com/prince29B/dictionary-web-app/blob/main/Screenshot%202024-06-21%20155709.png?raw=true))
+![Demo Screenshot](https://github.com/prince29B/dictionary-web-app/blob/main/Screenshot%202024-06-21%20155709.png?raw=true)
